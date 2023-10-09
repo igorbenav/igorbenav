@@ -45,6 +45,7 @@ I like building things and exploring different kinds of stuff, but mostly I've b
 Data infrastructure and solutions at [Cidadania4u](https://www.cidadania4u.com.br) as a Data Tech Lead
 
 ## 🔭 A Few of my Past Projects
+- [`@FastAPI-Boilerplate`](https://github.com/igormagalhaesr/FastAPI-boilerplate): A template to speed your FastAPI development up.
 - [`@stripemetrics`](https://github.com/igormagalhaesr/stripemetrics): Computing stripe metrics just like the dashboard with python.
 - [`@dexter`](https://github.com/igormagalhaesr/dexter): Data Exploration Terser - dealing with multiple pandas dataframes.
 - [`@nn-from-scratch`](https://igormagalhaesr.github.io/nn-from-scratch/): Teaching Neural Networks from Scratch with Numpy.
