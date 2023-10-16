@@ -10,7 +10,9 @@ I like building things and exploring different kinds of stuff, but mostly I've b
 - 🐶 I love dogs
 
 ## 🥋 Projects In Progress
-- [`@FastAPI-Boilerplate`](https://github.com/igormagalhaesr/FastAPI-boilerplate): A template to speed your FastAPI development up.
+<a href="https://github.com/igormagalhaesr/FastAPI-boilerplate">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=igormagalhaesr&repo=FastAPI-Boilerplate&theme=tokyonight&border_radius=20"/>
+ </a>
 
 ## 🛠️ A few Technologies I use
 ### 💾 Data
