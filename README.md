@@ -11,7 +11,7 @@ I like building things and exploring different kinds of stuff, but mostly I've b
 
 ## 🥋 Projects In Progress
 <a href="https://github.com/igormagalhaesr/FastAPI-boilerplate">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=igormagalhaesr&repo=FastAPI-Boilerplate&theme=tokyonight&border_radius=20"/>
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=igorbenav&repo=FastAPI-Boilerplate&theme=tokyonight&border_radius=20"/>
  </a>
 
 ## 🛠️ A few Technologies I use
