@@ -10,9 +10,12 @@ I like building things and exploring different kinds of stuff, but mostly I've b
 - 🐶 I love dogs
 
 ## 🥋 Projects In Progress
-<a href="https://github.com/igormagalhaesr/FastAPI-boilerplate">
+<a href="https://github.com/igorbenav/FastAPI-boilerplate">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=igorbenav&repo=FastAPI-Boilerplate&theme=tokyonight&border_radius=20"/>
- </a>
+</a>
+<a href="https://github.com/igorbenav/fastcrud">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=igorbenav&repo=fastcrud&theme=tokyonight&border_radius=20"/>
+</a>
 
 ## 🛠️ A few Technologies I use
 ### 💾 Data
