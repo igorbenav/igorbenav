@@ -69,7 +69,7 @@ I like building things and exploring different kinds of stuff, but mostly I've b
 ---
 
 #### 🚧 Currently Working With
-Data infrastructure and solutions at [Cidadania4u](https://www.cidadania4u.com.br) as a Data Tech Lead
+Back-End, Data infrastructure and solutions at [Purple Metrics](https://www.purplemetrics.com.br/en/) as a Software Engineer
 
 ---
 
