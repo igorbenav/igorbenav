@@ -19,6 +19,9 @@ I like building things and exploring different kinds of stuff, but mostly I've b
 ---
 
 ### 🥋 Projects In Progress
+<a href="https://github.com/igorbenav/clientai">
+    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=igorbenav&repo=clientai&theme=tokyonight&border_radius=20"/>
+</a>
 <a href="https://github.com/igorbenav/fastcrud">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=igorbenav&repo=fastcrud&theme=tokyonight&border_radius=20"/>
 </a>
@@ -27,9 +30,6 @@ I like building things and exploring different kinds of stuff, but mostly I've b
 </a>
 <a href="https://github.com/igorbenav/SQLModel-boilerplate">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=igorbenav&repo=SQLModel-Boilerplate&theme=tokyonight&border_radius=20"/>
-</a>
-<a href="https://github.com/igorbenav/clientai">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=igorbenav&repo=clientai&theme=tokyonight&border_radius=20"/>
 </a>
 
 ---
@@ -70,15 +70,6 @@ I like building things and exploring different kinds of stuff, but mostly I've b
 
 #### 🚧 Currently Working With
 Back-End, Data infrastructure and solutions at [Purple Metrics](https://www.purplemetrics.com.br/en/) as a Software Engineer
-
----
-
-#### 🔭 A Few of my Past Projects
-- [`@stripemetrics`](https://github.com/igormagalhaesr/stripemetrics): Computing stripe metrics just like the dashboard with python.
-- [`@dexter`](https://github.com/igormagalhaesr/dexter): Data Exploration Terser - dealing with multiple pandas dataframes.
-- [`@nn-from-scratch`](https://igormagalhaesr.github.io/nn-from-scratch/): Teaching Neural Networks from Scratch with Numpy.
-- [`@python-intro`](https://igormagalhaesr.github.io/python-intro/): Python Intro - Teaching python for newbies (Portuguese).
-- [`@campusmobilebooks`](https://github.com/igormagalhaesr/campusmobilebooks): Campus Mobile Ebooks - Ebooks on entrepreneurship, MVP and experimentation written for Campus Mobile (Portuguese).
 
 ---
 
