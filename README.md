@@ -6,15 +6,9 @@
 I like building things and exploring different kinds of stuff, but mostly I've been working with data for the past years - Engineering, Analytics and deploying data solutions. I also like studying music, languages and religion in my spare time.
  
 - 🌊 I’m from Rio de Janeiro
-- 📚 I’m currently learning more about Backend and Machine Learning Engineering
 - 🧮 I studied Applied Mathematics at the Federal University of Rio de Janeiro
 - 🎵 I play classical guitar
 - 🐶 I love dogs
-
----
-
-#### 📈 My GitHub Stats
-![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorbenav&show_icons=true&theme=tokyonight&border_radius=20)
 
 ---
 
