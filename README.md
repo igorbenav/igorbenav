@@ -69,7 +69,7 @@ I like building things and exploring different kinds of stuff, but mostly I've b
 ---
 
 #### 🚧 Currently Working With
-Back-End, Data infrastructure and solutions at [Purple Metrics](https://www.purplemetrics.com.br/en/) as a Software Engineer
+Back-End, Data infrastructure and AI at [Benav Labs](benav.io) as a Founder and Software Engineer
 
 ---
 
