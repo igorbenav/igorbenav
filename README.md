@@ -1,11 +1,35 @@
 Building stuff at [Benav Labs](http://github.com/benavlabs/)
 
+### Books
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [FastCRUD](https://github.com/benavlabs/fastcrud)
+**[Practical Language Models (In Progress)](https://github.com/igorbenav/practical-language-models)**
+From the learning problem and neural networks to building LLM agents and deploying them to production. Python, NumPy, FastAPI, PydanticAI.
+
+[Read the PDF](https://github.com/igorbenav/practical-language-models/blob/main/docs/en/Practical-Language-Models.pdf)
+
+</td>
+<td width="50%" valign="top">
+
+**[Practical Web Development (In Progress)](https://github.com/igorbenav/practical-web-development)**
+From HTTP and HTML to React with Python and FastAPI. Server-rendered pages, HTMX, databases, auth, deployment.
+
+[Read the PDF](https://github.com/igorbenav/practical-web-development/blob/main/docs/en/Practical-Web-Development-(en).pdf)
+
+</td>
+</tr>
+</table>
+
+### Open Source
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [FastCRUD](https://github.com/benavlabs/fastcrud)
 Async CRUD operations and automatic endpoint creation for FastAPI. Filtering, sorting, joins, pagination.
 
 [![PyPI](https://img.shields.io/pypi/v/fastcrud?label=PyPI)](https://pypi.org/project/fastcrud/)
@@ -17,7 +41,7 @@ Async CRUD operations and automatic endpoint creation for FastAPI. Filtering, so
 </td>
 <td width="50%" valign="top">
 
-### [FastAPI Boilerplate](https://github.com/benavlabs/FastAPI-boilerplate)
+#### [FastAPI Boilerplate](https://github.com/benavlabs/FastAPI-boilerplate)
 Async FastAPI starter. SQLAlchemy 2.0, Pydantic V2, JWT auth, Redis caching, rate limiting, Docker.
 
 [![Stars](https://img.shields.io/github/stars/benavlabs/FastAPI-boilerplate?label=Stars)](https://github.com/benavlabs/FastAPI-boilerplate)
@@ -30,7 +54,7 @@ Async FastAPI starter. SQLAlchemy 2.0, Pydantic V2, JWT auth, Redis caching, rat
 <tr>
 <td width="50%" valign="top">
 
-### [FastroAI](https://github.com/benavlabs/fastroai)
+#### [FastroAI](https://github.com/benavlabs/fastroai)
 Lightweight AI orchestration built on PydanticAI. Cost tracking, multi-step pipelines, tools with graceful failure handling.
 
 [![PyPI](https://img.shields.io/pypi/v/fastroai?label=PyPI)](https://pypi.org/project/fastroai/)
@@ -41,7 +65,7 @@ Lightweight AI orchestration built on PydanticAI. Cost tracking, multi-step pipe
 </td>
 <td width="50%" valign="top">
 
-### [CRUDAdmin](https://github.com/benavlabs/crudadmin)
+#### [CRUDAdmin](https://github.com/benavlabs/crudadmin)
 Admin interface for FastAPI. Automatic CRUD views, auth, role-based access.
 
 [![PyPI](https://img.shields.io/pypi/v/crudadmin?label=PyPI)](https://pypi.org/project/crudadmin/)
@@ -52,7 +76,7 @@ Admin interface for FastAPI. Automatic CRUD views, auth, role-based access.
 <tr>
 <td width="50%" valign="top">
 
-### [Landstro](https://github.com/benavlabs/landstro)
+#### [Landstro](https://github.com/benavlabs/landstro)
 Landing page template with Astro.
 
 [![Stars](https://img.shields.io/github/stars/benavlabs/landstro?label=Stars)](https://github.com/benavlabs/landstro)
@@ -60,7 +84,7 @@ Landing page template with Astro.
 </td>
 <td width="50%" valign="top">
 
-### [FastroAI Template](https://fastro.ai)
+#### [FastroAI Template](https://fastro.ai)
 Paid template for AI products. FastAPI + AstroJS + PydanticAI. Auth, payments, rate limiting, Stripe, OAuth, 90%+ test coverage.
 
 [fastro.ai](https://fastro.ai)
