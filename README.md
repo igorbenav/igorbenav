@@ -17,7 +17,7 @@ From the learning problem and neural networks to building LLM agents and deployi
 **[Practical Web Development (In Progress)](https://github.com/igorbenav/practical-web-development)**
 From HTTP and HTML to React with Python and FastAPI. Server-rendered pages, HTMX, databases, auth, deployment.
 
-[Read the PDF](https://github.com/igorbenav/practical-web-development/blob/main/docs/en/Practical-Web-Development-(en).pdf)
+[Read the PDF](https://github.com/igorbenav/practical-web-development/blob/main/docs/en/Practical-Web-Development.pdf)
 
 </td>
 </tr>
